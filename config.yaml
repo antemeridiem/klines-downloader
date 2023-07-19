@@ -1,0 +1,6 @@
+interval: 1w
+quotes: [USDT]
+spot_only: true
+tradable_only: true
+limit_requests: 1200
+limit_period: 1m
